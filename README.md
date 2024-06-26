@@ -1,8 +1,3 @@
-# React + Vite
+# CRYPTO PLACE
+Welcome to my new project, a cryptocurrency price-tracking web app using React JS. It helps you to get the real-time price of cryptocurrency from CoinGecko API.  Using this API data it shows the Price chart also. this application contains a search bar which helps to  search for individual currency. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

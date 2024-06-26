@@ -24,7 +24,7 @@ const Navbar = () => {
       }
 
       default :{
-        setCurrency({name:'eur', symbol:"€"});
+        setCurrency({name:'usd', symbol:"$"});
         break;
       }
     }
@@ -50,7 +50,7 @@ const Navbar = () => {
                 <option value='eur'>EURO</option>
                 <option value='inr'>INR</option>
             </select>
-            <button>Sign up <img src={arrowicon} alt=''/></button>
+       
         </div>
       
     </div>
